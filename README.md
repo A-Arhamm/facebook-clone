@@ -1,5 +1,11 @@
 # Facebook Clone
 
+##  Tech Stack
+
+- **Frontend**: Vue 3, Tailwind CSS
+- **Backend**: Laravel 11 (PHP 8+), MySQL
+- **API Communication**: Axios
+
 ## App Setup
 
 ```
